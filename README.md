@@ -43,9 +43,11 @@ Actualmente busco mi primera oportunidad como **Junior en IA/ML** para seguir cr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianLera&theme=radical" alt="Profile Details" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianLera&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLera&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
