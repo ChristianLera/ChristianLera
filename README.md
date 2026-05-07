@@ -54,7 +54,7 @@ Actualmente busco mi primera oportunidad como **Junior en IA/ML** para seguir cr
 <br>
 
 <!-- Lenguajes más usados -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLera&layout=compact&theme=radical&hide=html,css&t=1" alt="Top Languages" />
 </p>
 
