@@ -37,19 +37,30 @@ Actualmente busco mi primera oportunidad como **Junior en IA/ML** para seguir cr
 
 ---
 
+## 📈 Estadísticas de GitHub
+
+<!-- Versión 1: Estadísticas básicas (siempre funciona) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianLera&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLera&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<!-- Versión 2: Alternativa si la primera no funciona -->
+<details>
+  <summary>📊 Ver estadísticas alternativas</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianLera&theme=radical" alt="GitHub Streak" />
+  </p>
+</details>
+
+---
+
 ## 📫 ¿Cómo contactarme?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-lera-olivares-633037353)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristianLera)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianleraprofesional@hotmail.com)
-
----
-
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianLera&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLera&layout=compact&theme=radical)
 
 ---
 
