@@ -39,12 +39,10 @@ Actualmente busco mi primera oportunidad como **Junior en IA/ML** para seguir cr
 
 ## 📈 Estadísticas de GitHub
 
-<!-- Tarjeta principal de actividad (la que te gusta) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianLera&theme=radical" alt="Profile Details" />
 </p>
 
-<!-- Lenguajes: Usando un servicio MÁS ESTABLE -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianLera&theme=radical" alt="GitHub Streak" />
 </p>
